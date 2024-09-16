@@ -1,0 +1,48 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+Assets/StreamingAssets/aa.meta
+Assets/StreamingAssets/*.bin
+
+Assets/ArtRes/
+Assets/Plugins/
+Assets/Resources/
+Assets/Scenes/
+zBuild/
+
+# Visual Studio / MonoDevelop generated files
+.vscode/
+.vscode/*
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# Unity auto-generated folders
+.gradle/
+.idea/
+*.apk
+*.aab
+*.iOS
+*.android
+
+# User-specific settings
+UserSettings/
+.DS_Store
+*.swp
+*.sln.*
